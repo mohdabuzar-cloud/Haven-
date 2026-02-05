@@ -1,5 +1,5 @@
 {
-  "buildCommand": "cd Haven-Agent && npm run build",
+  "buildCommand": "cd Haven-Agent && npm install --legacy-peer-deps && npm run build",
   "devCommand": "cd Haven-Agent && npm start",
-  "installCommand": "npm install"
+  "installCommand": "npm install --legacy-peer-deps"
 }
