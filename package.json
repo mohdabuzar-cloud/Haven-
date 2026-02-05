@@ -1,0 +1,1 @@
+﻿{"name": "haven-agent", "version": "0.1.0", "private": true, "scripts": {"start": "npm --prefix ./Haven-Agent start", "build": "npm --prefix ./Haven-Agent run build", "test": "npm --prefix ./Haven-Agent test", "eject": "npm --prefix ./Haven-Agent run eject"}}
